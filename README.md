@@ -7,16 +7,16 @@ Express, React & Redux, Mongo, Mongoose, Sass .
 
 **[Web app](https://path-18.herokuapp.com/) for informing young people of a variety of careers and paths** :mortar_board:
 
-### Problem Statement:
+### Problem Statement
 * Young people have little exposure to the variety of jobs and careers paths they could pursue.
 * Uncertainty around career prospects.
 * Little knowledge of the path to take to get a specific job.
 
-### User Journey:
+### User Journey
 As a user I can browse a variety of career paths and view detailed information about the ones that I am interested in.
 
-### User Story:
-##### As a user I can...
+### User Story
+
 * Read welcome page and instructions on how to use the app.
 * View card with job and decide if I like / dislike it.
 * Click on card to view more details.
@@ -25,7 +25,7 @@ As a user I can browse a variety of career paths and view detailed information a
 * Read details instructions for the app in the help page.
 
 
-### Prototype:
+### Prototype
 
 Below, prototype images from figma
 
@@ -34,7 +34,7 @@ Below, prototype images from figma
 <img alt="Prototype start and info page" src="https://user-images.githubusercontent.com/25408167/31076464-dde5ca54-a782-11e7-9d93-30a080092e30.png" width=25%><img alt="Prototype start and info page" src="https://user-images.githubusercontent.com/25408167/31076466-ddead8dc-a782-11e7-8e45-ea310e21ac7a.png" width=25%>
 
 
-### Guidelines:
+### Guidelines
 
 * CamelCase for JavaScript id's.
 * kebab-case for CSS Classes.
